@@ -19,14 +19,13 @@
   <h1 class="ui center aligned icon header">
     <i class="circular calendar outline icon"></i>
     <div class="ui huge header">When is it ? </div>
+    <button class="ui teal button" onclick="showCreateEventForm()" >
+        <i class="calendar plus icon outline icon" style="padding-left: 2rem;"></i>
+    </button>
   </h1>
 
   <!--Add buttons to initiate auth sequence and sign out-->
   <button id="authorize_button" style="display: none;">Authorize</button>
-
-  <button class="ui teal button" onclick="showCreateEventForm()">
-    <i class="calendar plus icon"></i>
-    Create New Event</button>
 
   <div id="create_event_block" class="ui yellow inverted segment">
     <div class="ui inverted form" style="padding-left: 2rem ; padding-right: 2rem;">
@@ -67,7 +66,7 @@
   </div>
  <div id="banner"></div>
 
-  <div id="content" class="ui cards" style="padding-left: 12rem;"></div>
+  <div id="content" class="ui cards" style="padding-left: 9rem;"></div>
 
 
 
