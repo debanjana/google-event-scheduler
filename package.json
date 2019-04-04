@@ -2,5 +2,7 @@
   "name": "js-xtvayw",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "semantic-ui": "^2.4.2"
+  }
 }

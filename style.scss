@@ -1,0 +1,46 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.calTable {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  td , th{
+    border: 1px solid brown;
+    padding: 8px;
+  }
+}
+
+ui.card>:first-child, .ui.cards>.card>:first-child.date_Card {
+  font-size: 10rem;
+  color: white;
+  background-color: coral;
+  height: 250px;
+  width: 289px;
+  /* align-content: center; */
+  /* align-items: center; */
+  vertical-align: middle;
+  /* position: absolute; */
+  padding-top: 8rem;
+  padding-left: 4rem;
+  border: 1px sold;
+}
+
+body.bodyContainer{
+  margin: 6rem;
+}
+
+.ui.circular.button.sign_out{
+  float: right;
+}
+#create_event_block {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+  display: none;
+}
+
+
