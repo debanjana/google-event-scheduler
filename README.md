@@ -12,6 +12,7 @@ I am "actively involved in the interview process". While doing so I found it dif
 # Demonstration
 
 The following demonstration provides an overview of the application : Click the image below Alt text
+[![Watch the video](img/ScreenShotCalendar.png)](https://www.youtube.com/embed/bkKS4EKcCd8)
 
 # Run this application
 
